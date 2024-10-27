@@ -34,9 +34,22 @@ Este repositorio contiene un entorno de taller para Minka, preconfigurado usando
 - Materiales interactivos del taller
 - Configuración de Docker Compose
 
+## 📦 Environment Variables
+
+| Variable | Description | Default |
+|----------|-------------|---------|
+| SERVER_URL | Minka server URL | ldg-dev.one |
+| LEDGER | Ledger type | ach |
+
 ## 🤝 Contribuir
 
 ¡Las contribuciones son bienvenidas! No dudes en enviar un Pull Request.
+
+1. Fork the Project
+2. Create your Feature Branch (`git checkout -b feature/AmazingFeature`)
+3. Commit your Changes (`git commit -m 'Add some AmazingFeature'`)
+4. Push to the Branch (`git push origin feature/AmazingFeature`)
+5. Open a Pull Request
 
 ## 📄 Licencia
 
@@ -45,3 +58,14 @@ Este repositorio contiene un entorno de taller para Minka, preconfigurado usando
 ## 📮 Contacto
 
 [Agrega información de contacto o enlaces a tu comunidad]
+
+## 📮 Support & Contact
+
+- GitHub Issues: [Create an issue](https://github.com/pcastellanos-minka/minka-workshop/issues)
+- Email: [Add contact email]
+- Documentation: [Add documentation link]
+
+## 🔗 Links
+
+- [Minka Official Website](https://minka.io)
+- [Docker Hub Repository](https://github.com/pcastellanos-minka/minka-workshop/pkgs/container/minka-workshop)

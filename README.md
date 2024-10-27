@@ -1,43 +1,32 @@
-# Minka Workshop
+## 📦 Environment Variables
 
-[![Play with Docker](https://raw.githubusercontent.com/play-with-docker/stacks/master/assets/images/button.png)](https://labs.play-with-docker.com/?stack=https://gist.github.com/pcastellanos-minka/400551ec9c8cb9f4f6555f729e08d024)
-
-## 🚀 Quick Start
-
-Try Minka instantly in your browser:
-
-[![Try in PWD](https://raw.githubusercontent.com/play-with-docker/stacks/master/assets/images/button.png)](https://labs.play-with-docker.com/?stack=https://gist.github.com/pcastellanos-minka/400551ec9c8cb9f4f6555f729e08d024)
-
-
-## 📝 Description
-
-This repository contains a workshop environment for Minka, pre-configured using Docker Compose. You can explore and learn about Minka without any local setup required.
-
-## 🛠️ Prerequisites
-
-- A modern web browser
-- No local installation needed!
-
-## 🔧 Usage
-
-1. Click the "Play with Docker" button above
-2. Wait for the environment to load
-3. Start exploring Minka!
-
-## 📦 What's Included
-
-- Pre-configured Minka environment
-- Interactive workshop materials
-- Docker Compose setup
+| Variable | Description | Default |
+|----------|-------------|---------|
+| SERVER_URL | Minka server URL | ldg-dev.one |
+| LEDGER | Ledger type | ach |
 
 ## 🤝 Contributing
 
-Contributions are welcome! Please feel free to submit a Pull Request.
+We welcome contributions! Please feel free to submit a Pull Request.
+
+1. Fork the Project
+2. Create your Feature Branch (`git checkout -b feature/AmazingFeature`)
+3. Commit your Changes (`git commit -m 'Add some AmazingFeature'`)
+4. Push to the Branch (`git push origin feature/AmazingFeature`)
+5. Open a Pull Request
 
 ## 📄 License
 
-[Add your license information here]
+This project is licensed under the Apache 2.0 License - see the [LICENSE](LICENSE) file for details.
 
-## 📮 Contact
+## 📮 Support & Contact
 
-[Add contact information or links to your community]
+- GitHub Issues: [Create an issue](https://github.com/pcastellanos-minka/minka-workshop/issues)
+- Email: [Add contact email]
+- Documentation: [Add documentation link]
+
+## 🔗 Links
+
+- [Minka Official Website](https://minka.io)
+- [Docker Hub Repository](https://github.com/pcastellanos-minka/minka-workshop/pkgs/container/minka-workshop)
+- [![Try in PWD](https://raw.githubusercontent.com/play-with-docker/stacks/master/assets/images/button.png)](https://play-with-docker.com/?stack=https://raw.githubusercontent.com/pcastellanos-minka/minka-workshop/main/dockercompose-cloud.yml)
