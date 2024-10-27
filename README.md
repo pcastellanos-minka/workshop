@@ -1,6 +1,6 @@
 # Minka Workshop
 
-[![Try in PWD](https://raw.githubusercontent.com/play-with-docker/stacks/master/assets/images/button.png)](https://labs.play-with-docker.com/?stack=https://raw.githubusercontent.com/pcastellanos-minka/workshop/refs/heads/master/dockercompose-cloud.yml)
+[![Try in PWD](https://raw.githubusercontent.com/play-with-docker/stacks/master/assets/images/button.png)](https://labs.play-with-docker.com/?stack=https://raw.githubusercontent.com/pcastellanos-minka/workshop/refs/heads/master/dockercompose-cloud.yaml)
 
 ## Descripción
 Este proyecto contiene los recursos necesarios para ejecutar el workshop de Minka, diseñado para facilitar el aprendizaje y la implementación de nuestras soluciones.
