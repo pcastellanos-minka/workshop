@@ -1,12 +1,12 @@
 # Taller de Minka
 
-[![Jugar con Docker](https://img.shields.io/badge/Play%20with-Docker-1488C6?logo=docker)](https://labs.play-with-docker.com/?stack=https://raw.githubusercontent.com/pcastellanos-minka/minka-workshop/master/dockercompose-cloud.yaml)
+[![Jugar con Docker](https://img.shields.io/badge/Play%20with-Docker-1488C6?logo=docker)](https://labs.play-with-docker.com/?stack=https://raw.githubusercontent.com/pcastellanos-minka/workshop/refs/heads/master/dockercompose-cloud.yaml)
 
 ## 🚀 Inicio Rápido
 
 Prueba Minka instantáneamente en tu navegador:
 
-[![Probar en PWD](https://raw.githubusercontent.com/play-with-docker/stacks/master/assets/images/button.png)](https://labs.play-with-docker.com/?stack=https://raw.githubusercontent.com/pcastellanos-minka/minka-workshop/master/dockercompose-cloud.yaml)
+[![Probar en PWD](https://raw.githubusercontent.com/play-with-docker/stacks/master/assets/images/button.png)](https://labs.play-with-docker.com/?stack=https://raw.githubusercontent.com/pcastellanos-minka/workshop/refs/heads/master/dockercompose-cloud.yaml)
 
 ## 📝 Descripción
 
