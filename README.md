@@ -1,14 +1,14 @@
 # Minka Workshop
 
-Este repositorio contiene los recursos necesarios para ejecutar el workshop de Minka, una plataforma para la gestión de transacciones financieras distribuidas.
+This repository contains the necessary resources to run the Minka workshop, a platform for managing distributed financial transactions.
 
-## Descripción
+## Description
 
-El workshop de Minka está diseñado para proporcionar una introducción práctica a las herramientas y conceptos fundamentales de la plataforma. A través de ejercicios guiados, los participantes aprenderán a interactuar con la red Minka y comprender sus principales características.
+The Minka workshop is designed to provide a practical introduction to the platform's fundamental tools and concepts. Through guided exercises, participants will learn to interact with the Minka network and understand its main features.
 
-## Ejecución
+## Execution
 
-Ingrese a docker labs (https://labs.play-with-docker.com/) y ejecute cada comando en una terminal
+Access docker labs (https://labs.play-with-docker.com/) and run one of the following commands in a terminal
 
 ```bash
 # Run the workshop with default values
