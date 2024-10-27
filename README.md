@@ -1,18 +1,19 @@
 # Minka Workshop
 
-[![Try in PWD](https://raw.githubusercontent.com/play-with-docker/stacks/master/assets/images/button.png)](https://labs.play-with-docker.com/?stack=https://raw.githubusercontent.com/pcastellanos-minka/workshop/refs/heads/master/dockercompose-cloud.yaml)
+Este repositorio contiene los recursos necesarios para ejecutar el workshop de Minka, una plataforma para la gestión de transacciones financieras distribuidas.
 
-https://labs.play-with-docker.com/?stack=https://gist.githubusercontent.com/pcastellanos-minka/400551ec9c8cb9f4f6555f729e08d024/raw/465ca687fb485778f0787ca88cf98da06fcf1a02/docker-compose.yaml
 ## Descripción
-Este proyecto contiene los recursos necesarios para ejecutar el workshop de Minka, diseñado para facilitar el aprendizaje y la implementación de nuestras soluciones.
 
-## Requisitos Previos
-- Docker instalado en tu máquina local
-- Conexión a Internet
+El workshop de Minka está diseñado para proporcionar una introducción práctica a las herramientas y conceptos fundamentales de la plataforma. A través de ejercicios guiados, los participantes aprenderán a interactuar con la red Minka y comprender sus principales características.
 
-## Inicio Rápido
-Puedes iniciar este proyecto de dos formas:
+## Ejecución
 
-### 1. Usando Docker Playground
-Simplemente haz clic en el botón "Try in PWD" arriba para lanzar el entorno en Play with Docker.
+Ingrese a docker labs (https://labs.play-with-docker.com/) y ejecute cada comando en una terminal
 
+```bash
+# Run the workshop with default values
+docker run --rm -it --network host ghcr.io/pcastellanos-minka/minka-workshop:latest bash
+
+# Run the workshop with custom values
+docker run --rm -it --network host ghcr.io/pcastellanos-minka/minka-workshop:latest -e SERVER_URL=ldg-dev.one -e LEDGER=ach bash
+```
