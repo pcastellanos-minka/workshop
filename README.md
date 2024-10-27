@@ -1,32 +1,17 @@
-## 📦 Environment Variables
+# Minka Workshop
 
-| Variable | Description | Default |
-|----------|-------------|---------|
-| SERVER_URL | Minka server URL | ldg-dev.one |
-| LEDGER | Ledger type | ach |
+[![Try in PWD](https://raw.githubusercontent.com/play-with-docker/stacks/master/assets/images/button.png)](https://labs.play-with-docker.com/?stack=https://raw.githubusercontent.com/pcastellanos-minka/workshop/refs/heads/master/dockercompose-cloud.yml)
 
-## 🤝 Contributing
+## Descripción
+Este proyecto contiene los recursos necesarios para ejecutar el workshop de Minka, diseñado para facilitar el aprendizaje y la implementación de nuestras soluciones.
 
-We welcome contributions! Please feel free to submit a Pull Request.
+## Requisitos Previos
+- Docker instalado en tu máquina local
+- Conexión a Internet
 
-1. Fork the Project
-2. Create your Feature Branch (`git checkout -b feature/AmazingFeature`)
-3. Commit your Changes (`git commit -m 'Add some AmazingFeature'`)
-4. Push to the Branch (`git push origin feature/AmazingFeature`)
-5. Open a Pull Request
+## Inicio Rápido
+Puedes iniciar este proyecto de dos formas:
 
-## 📄 License
+### 1. Usando Docker Playground
+Simplemente haz clic en el botón "Try in PWD" arriba para lanzar el entorno en Play with Docker.
 
-This project is licensed under the Apache 2.0 License - see the [LICENSE](LICENSE) file for details.
-
-## 📮 Support & Contact
-
-- GitHub Issues: [Create an issue](https://github.com/pcastellanos-minka/minka-workshop/issues)
-- Email: [Add contact email]
-- Documentation: [Add documentation link]
-
-## 🔗 Links
-
-- [Minka Official Website](https://minka.io)
-- [Docker Hub Repository](https://github.com/pcastellanos-minka/minka-workshop/pkgs/container/minka-workshop)
-- [![Try in PWD](https://raw.githubusercontent.com/play-with-docker/stacks/master/assets/images/button.png)](https://play-with-docker.com/?stack=https://raw.githubusercontent.com/pcastellanos-minka/minka-workshop/main/dockercompose-cloud.yml)
