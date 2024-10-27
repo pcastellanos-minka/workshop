@@ -1,0 +1,15 @@
+version: '3'
+
+services:
+  bridge:
+    image: ghcr.io/pcastellanos-minka/minka-workshop:latest
+    environment:
+      SERVER_URL: ldg-dev.one
+      LEDGER: ach
+      
+    
+  client:
+    image: ghcr.io/pcastellanos-minka/minka-workshop:latest
+    environment:
+      SERVER_URL: ldg-dev.one
+      LEDGER: ach
