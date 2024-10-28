@@ -15,5 +15,5 @@ Access docker labs (https://labs.play-with-docker.com/) and run one of the follo
 docker run --rm -it --network host ghcr.io/pcastellanos-minka/minka-workshop:latest bash
 
 # Run the workshop with custom values
-docker run --rm -it --network host ghcr.io/pcastellanos-minka/minka-workshop:latest -e SERVER_URL=ldg-dev.one -e LEDGER=ach bash
+docker run --rm -it --network="host" -e SERVER_URL=ldg-dev.one -e LEDGER=ach ghcr.io/pcastellanos-minka/minka-workshop:latest bash
 ```
